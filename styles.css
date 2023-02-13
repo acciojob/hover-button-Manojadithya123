@@ -2,10 +2,10 @@
 	background-color:black;
 	color:white;
 	Border-radius:5px;
+	border:none
 }
 #btn:hover{
 	background-color:yellow;
 	color:black;
 	Border-radius:30px;
-	border:none;
 }
